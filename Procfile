@@ -1,1 +1,0 @@
-web: gunicorn MemphisDjangoDeveloper.wsgi --log-file -
